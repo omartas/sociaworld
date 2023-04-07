@@ -1,16 +1,5 @@
 # sociaworld
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230408_015126](https://user-images.githubusercontent.com/56955207/230690775-468a3776-b43c-4b37-8af6-4cc4e001bb4f.png)
+![Screenshot_20230408_015217](https://user-images.githubusercontent.com/56955207/230690776-6c1d89ff-b482-4c7a-9c6d-16027ae2d543.png)
+![Screenshot_20230408_015545](https://user-images.githubusercontent.com/56955207/230690778-53477f8e-506d-4efd-9d36-1ab6dad3530d.png)
